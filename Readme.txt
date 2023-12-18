@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: PhotoFolio
-Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Prototpye of a tourist website to help people to educate and explore famous monuments of India using street view and VR. 
